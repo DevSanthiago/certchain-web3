@@ -69,6 +69,7 @@ Abra http://localhost:5173, conecte o MetaMask na Sepolia e use.
 ## Evidências de Funcionamento
 
 - [Link do contrato no Etherscan](https://sepolia.etherscan.io/address/0xeAeF9FD23D926c94AB9818a31b4B36b95CFAEF84)
+- [Deploy da aplicação na Vercel](https://certchain-web3.vercel.app/)
 - [Vídeo pitch de apresentação](#) ← adicionar após gravação
 
 ## Estrutura do Repositório
