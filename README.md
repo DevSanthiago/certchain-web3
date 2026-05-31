@@ -72,6 +72,7 @@ Abra http://localhost:5173, conecte o MetaMask na Sepolia e use.
 - [Deploy da aplicação na Vercel](https://certchain-web3.vercel.app/)
 - [Slide de apresentação](https://docs.google.com/presentation/d/1Gmasj1RFtyl9UfdNVoO73iYRPKnCjBWMvBevxqIKkJs/edit?usp=sharing)
 - [Vídeo pitch de apresentação](https://youtu.be/BguOF9L7S1s)
+- [PFD apresetação de slides do pitch](https://drive.google.com/file/d/16JCSYgCZp-YNB0QswGhoUdth0hdszXFi/view?usp=sharing)
 
 ## Estrutura do Repositório
 
